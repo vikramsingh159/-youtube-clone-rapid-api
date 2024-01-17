@@ -32,7 +32,7 @@ const Feed = () => {
           className="copyright"
           variant="body2"
         >
-          All Right &copy; Reserved for YT
+          All Right &copy; Reserved for Vikram Singh
         </Typography>
       </Box>
 
